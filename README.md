@@ -26,9 +26,9 @@ mobile/         # Mobile app code (if any)
 
 1. Clone the repo and install dependencies:
   ```
- git clone https://github.com/YOUR-USERNAME/mind-mitra.git
- cd mind-mitra
- npm install
+git clone https://github.com/sanayasindhu/mind-mitra.git
+cd mind-mitra
+npm install
   ```
 2. Set up your `.env` file (see below).
 3. Start MongoDB locally (or use MongoDB Atlas).
