@@ -98,7 +98,7 @@ For questions, contact Sanaya Sindhu(https://github.com/SanayaSindhu)or open an 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Piyushkant-Coder/sih25.git
+   git clone https://github.com/SanayaSindhu/sih25.git
    cd sih25
    ```
 
