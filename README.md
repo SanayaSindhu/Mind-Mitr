@@ -84,7 +84,7 @@ The backend uses the `cors` package. If you have CORS issues, update the CORS se
 - View MongoDB data: use MongoDB Compass, mongosh, or VS Code MongoDB extension
 
 ## Contact
-For questions, ask [Piyushkant-Coder](https://github.com/Piyushkant-Coder) or open an issue.
+For questions, contact Sanaya Sindhu(https://github.com/SanayaSindhu)or open an issue.
 
 ## Getting Started
 
